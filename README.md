@@ -24,9 +24,9 @@ In addition I developed an asynchronous library called Cortex to communicate wit
 5) Visual feedback.
 
 I also developed Lain BCI which allows to connect the headset to the game, create session, load training profile and train commands.<br>
-<img src="images/lainbci.png width="50%" height="50%">
+<img src="images/lainbci.png" width="50%" height="50%">
                                                      
 Here is the training menu. <br>
-<img src="images/training.png width="50%" height="50%">
+<img src="images/training.png" width="50%" height="50%">
                                                       
 <b> DEMO </b>
