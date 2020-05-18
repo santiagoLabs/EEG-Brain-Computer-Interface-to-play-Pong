@@ -11,8 +11,8 @@ Requirements:
 
 BCI system was developed using Python and Emotiv Cortex API to receive data from the EEG headset. Pong was developed using PyGame. The BCI uses mental commands to control the paddle movements (UP or DOWN). Mental commands are thoughts associated to a specific command. The Emotiv proprietary algorithm classifies the patterns in brain activity produced when the user is recreating the chosen thoughts. It is necessary to train the commands before using them. Mental commands are retrieved using the Emotiv Cortex API.
 
-To measure brain waves I used the Emotiv Epoc+ headset.<br>
-<img src="images/emotiv.png" width="60%" height="60%">
+To measure brain waves I used the Emotiv Epoc+ headset. It has 14 electrodes<br>
+<img src="images/emotiv.png" width="50%" height="50%">
 
 In addition I developed an asynchronous library called Cortex to communicate with the API. The libary acts as a Python wrapper for all the available methods in the API. It generates the request and send it through a socket.
 
