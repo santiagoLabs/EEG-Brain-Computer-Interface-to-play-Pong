@@ -1,4 +1,8 @@
 # EEG-based-Brain-Computer-Interface-to-play-Pong
+
+<b>The project is deprecated. Unfortunately I don't have access to the hardware anymore so I can't refactor. 
+Sorry for everyone who was interested in the project.</b>
+
 Developed an Electroencephalography(EEG) Brain Computer Interface to play Pong using brain activity.
 The program allows to play Pong using brain activity. Furthermore, when the player hits the ball 2 times in a row they unlock a powerup. The powerup works only if the player reaches a high level of focus.
 
